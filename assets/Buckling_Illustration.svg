@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 800 800" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-14.2484,1.11114)">
+        <path d="M414.248,728.889L414.248,282.353L414.248,728.889Z" style="fill:none;stroke:rgb(186,215,233);stroke-opacity:0.8;stroke-width:30px;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,-13.046,8.80704)">
+        <path d="M398.217,327.711C396.12,375.672 412.618,394.189 431.414,412.251C445.762,426.04 462.287,439.248 467.972,474.369C470.809,491.898 473.219,513.042 462.443,527.232C440.557,556.049 401.656,593.513 398.121,730.807L428.111,731.579C431.342,606.119 466.334,571.71 486.334,545.376C501.871,524.918 501.677,494.848 497.587,469.575C491.745,433.481 477.259,415.244 462.27,400.319C445.09,383.212 426.303,372.15 428.188,329.021L398.217,327.711Z" style="fill:none;stroke:rgb(43,52,103);stroke-opacity:0.81;stroke-width:5px;stroke-dasharray:40,25,0,0;"/>
+    </g>
+    <g transform="matrix(2.73614e-17,-0.446846,1.0142,6.21021e-17,253.636,395.386)">
+        <path d="M382.771,156.392L382.771,178.824L304.444,144.314L382.771,109.804L382.771,132.235L528.235,132.235L528.235,156.392L382.771,156.392Z" style="fill:rgb(235,69,95);fill-opacity:0.58;stroke:rgb(235,69,95);stroke-opacity:0.93;stroke-width:6.38px;"/>
+    </g>
+    <g transform="matrix(9.30024e-17,-1.51884,0.136607,8.36478e-18,262.225,1136.34)">
+        <path d="M257.986,323.791L257.986,335.686L256.34,317.386L257.986,299.085L257.986,310.98L568.419,310.98L568.419,299.085L570.065,317.386L568.419,335.686L568.419,323.791L257.986,323.791Z" style="fill:rgb(43,52,103);fill-opacity:0.92;stroke:rgb(43,52,103);stroke-opacity:0.92;stroke-width:4.64px;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,-39,0)">
+        <text x="292.922px" y="522.278px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:48px;fill:rgb(43,52,103);fill-opacity:0.95;">L</text>
+    </g>
+    <g transform="matrix(1,0,0,1,169.105,-327.32)">
+        <text x="291.574px" y="522.278px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:48px;fill:rgb(235,69,95);fill-opacity:0.89;">P</text>
+    </g>
+    <g transform="matrix(1.01729,0,0,0.683031,-8.64372,234.825)">
+        <rect x="352.549" y="749.804" width="98.301" height="7.32" style="fill:rgb(186,215,233);stroke:rgb(186,215,233);stroke-opacity:0.92;stroke-width:5.77px;"/>
+    </g>
+    <g transform="matrix(0.215799,-0.215799,0.482976,0.482976,-101.359,482.978)">
+        <rect x="352.549" y="749.804" width="98.301" height="7.32" style="fill:rgb(186,215,233);stroke:rgb(186,215,233);stroke-opacity:0.92;stroke-width:9.45px;"/>
+    </g>
+    <g transform="matrix(0.215799,-0.215799,0.482976,0.482976,-78.3756,482.978)">
+        <rect x="352.549" y="749.804" width="98.301" height="7.32" style="fill:rgb(186,215,233);stroke:rgb(186,215,233);stroke-opacity:0.92;stroke-width:9.45px;"/>
+    </g>
+    <g transform="matrix(0.215799,-0.215799,0.482976,0.482976,-55.3919,482.978)">
+        <rect x="352.549" y="749.804" width="98.301" height="7.32" style="fill:rgb(186,215,233);stroke:rgb(186,215,233);stroke-opacity:0.92;stroke-width:9.45px;"/>
+    </g>
+    <g transform="matrix(0.215799,-0.215799,0.482976,0.482976,-32.4082,482.978)">
+        <rect x="352.549" y="749.804" width="98.301" height="7.32" style="fill:rgb(186,215,233);stroke:rgb(186,215,233);stroke-opacity:0.92;stroke-width:9.45px;"/>
+    </g>
+    <g transform="matrix(0.215799,-0.215799,0.482976,0.482976,-9.4245,482.978)">
+        <rect x="352.549" y="749.804" width="98.301" height="7.32" style="fill:rgb(43,52,103);stroke:rgb(186,215,233);stroke-opacity:0.92;stroke-width:9.45px;"/>
+    </g>
+    <g>
+        <text x="545.515px" y="700.752px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:48px;fill:rgb(235,69,95);fill-opacity:0.89;">P</text>
+        <text x="577.531px" y="700.752px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:48px;fill:rgb(235,69,95);fill-opacity:0.89;">: Load</text>
+        <text x="545.515px" y="762.323px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:48px;fill:rgb(43,52,103);fill-opacity:0.89;">L</text>
+        <text x="574.835px" y="762.323px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:48px;fill:rgb(43,52,103);fill-opacity:0.89;">: Length</text>
+    </g>
+</svg>
